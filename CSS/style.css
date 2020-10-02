@@ -41,7 +41,7 @@ html{
 }
 #navbar::before{
     content:"";
-    background-color: black;
+    background-color: grey;
     position: absolute;
     top: 0px;
     left: 0px;
